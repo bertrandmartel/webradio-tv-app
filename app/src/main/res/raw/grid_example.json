@@ -1,0 +1,31 @@
+{
+  "cards": [
+    {
+      "type": "RADIO_ITEM",
+      "title": "Nostalgie Best of 60s",
+      "description": "",
+      "localImageResource": "http://static.radio.net/images/broadcasts/2d/c7/18490/1/c300.png",
+      "stream": "http://cdn.nrjaudio.fm/adwz1/fr/30615/mp3_128.mp3"
+    },
+    {
+      "type": "RADIO_ITEM",
+      "title": "Nostalgie Best of 70s",
+      "description": "",
+      "localImageResource": "http://static.radio.net/images/broadcasts/30/41/8111/1/c300.png",
+      "stream": "http://cdn.nrjaudio.fm/adwz1/fr/30613/mp3_128.mp3"
+    },
+    {
+      "type": "RADIO_ITEM",
+      "title": "Nostalgie Best of 80s",
+      "description": "",
+      "localImageResource": "http://static.radio.net/images/broadcasts/15/bc/12368/1/c300.png",
+      "stream": "http://cdn.nrjaudio.fm/adwz1/fr/30605/mp3_128.mp3"
+    },
+    {
+      "type": "EXIT_ITEM",
+      "title": "Exit application",
+      "description": "",
+      "localImageResource": "exit"
+    }
+  ]
+}
